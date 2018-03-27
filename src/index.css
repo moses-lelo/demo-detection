@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New" , sans-serif;
+  background: linear-gradient(to right, #4ECDC4 0%, #556270 100%);
+}
+
+button {
+  /*
+  Les boutons disposerons d'un curseur pointeur 
+  */
+  cursor: pointer
+}
