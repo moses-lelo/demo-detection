@@ -2,7 +2,7 @@
   "name": "dection-visage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://moses-lelo.github.io/100",
+  "homepage": "https://moses-lelo.github.io/demo-detectionnp",
   "dependencies": {
     "clarifai": "^2.6.0",
     "react": "^16.2.0",
